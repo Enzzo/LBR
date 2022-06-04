@@ -1,13 +1,14 @@
 # LBR
 Lot By Risk (LBR) - is a trading panel for MetaTrader 4
 
-#Link to marketplace: https://www.mql5.com/ru/market/product/56019
+# ink to marketplace: 
+https://www.mql5.com/ru/market/product/56019
 
 Trading panel Lot by Risk is designed for manual trading. This is an alternative means for submitting orders.
 
 The first feature of the panel is convenient placement of orders using control lines. The second feature is the calculation of the volume of the transaction for a given risk in the presence of a stop line loss.
 
-#Control lines are set using hotkeys:
+# Control lines are set using hotkeys:
 
 take profit - default key T;
 price - default key P;
@@ -15,7 +16,7 @@ stop loss - default key S;
 
 You can configure the keys yourself in the settings of the trading panel.
 
-#Work algorithm:
+# Work algorithm:
 
 1) – place the levels in the desired places (it is not necessary to place all the levels);
 2) – indicate the risk (optional);
@@ -35,7 +36,7 @@ If stop loss is specified, but the risk is not specified in the « Risk » field
 Pending orders are placed indefinitely.
 To trade the minimum lot - just delete the contents of the " Risk " field.
 
-#inputs:
+# inputs:
 
 magic = 111 - magic number for orders;
 
@@ -51,6 +52,6 @@ HK_SL _ = “ S ” – hotkey for control level stop loss (only A - Z , a - z ,
 
 HK_PR _ = “ P ” – hotkey for control level price open (only A - Z , a - z , 0-9).
 
-#IMPORTANT!!!
+# MPORTANT!!!
 1) Hotkey symbols must be different from each other.
 2) To place a panel order, the take line must be present profit OR stop loss.
