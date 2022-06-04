@@ -36,7 +36,7 @@ If stop loss is specified, but the risk is not specified in the « Risk » field
 Pending orders are placed indefinitely.
 To trade the minimum lot - just delete the contents of the " Risk " field.
 
-# inputs:
+# Inputs:
 
 magic = 111 - magic number for orders;
 
@@ -52,6 +52,6 @@ HK_SL _ = “ S ” – hotkey for control level stop loss (only A - Z , a - z ,
 
 HK_PR _ = “ P ” – hotkey for control level price open (only A - Z , a - z , 0-9).
 
-# MPORTANT!!!
+# IMPORTANT!!!
 1) Hotkey symbols must be different from each other.
 2) To place a panel order, the take line must be present profit OR stop loss.
