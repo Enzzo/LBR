@@ -1,7 +1,7 @@
 # LBR
 Lot By Risk (LBR) - is a trading panel for MetaTrader 4
 
-# ink to marketplace: 
+# Link to marketplace: 
 https://www.mql5.com/ru/market/product/56019
 
 Trading panel Lot by Risk is designed for manual trading. This is an alternative means for submitting orders.
