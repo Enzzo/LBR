@@ -22,6 +22,7 @@ You can configure the keys yourself in the settings of the trading panel.
 3) – press the green send button order ;
 4) – wait until an order is placed, or an alert appears with an error message;
 5) – if we want to close all orders for the current symbol, linked by the magician to the adviser, then press the close button orders.
+
 Don't press the send button too many times order. One time is enough. After the order is placed, the button will take the “not pressed” state.
 To send an order with a risk calculation, be sure to set the stop line loss and set the risk in the " Risk " field of the trading panel. Otherwise, the order will be placed with the minimum lot for the current trading instrument.
 The risk is calculated from the account balance. A 100% risk cannot be made due to broker restrictions related to the specifics of margin trading.
