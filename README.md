@@ -38,11 +38,17 @@ To trade the minimum lot - just delete the contents of the " Risk " field.
 #inputs:
 
 magic = 111 - magic number for orders;
+
 slip page = 5 – slippage for market orders (set in pips);
+
 comment = “ ” – comment to placed orders;
+
 font = 7 – font for graphic objects;
+
 HK_TP _ = “ T ” – hotkey for control level take profit (only A - Z , a - z , 0-9);
+
 HK_SL _ = “ S ” – hotkey for control level stop loss (only A - Z , a - z , 0-9);
+
 HK_PR _ = “ P ” – hotkey for control level price open (only A - Z , a - z , 0-9).
 
 #IMPORTANT!!!
